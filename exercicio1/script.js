@@ -1,4 +1,4 @@
-//exercicio 3
+//exercicio 1
 
 let array1 = [3,9,5]
 let array2 = ["banana", "maça", "melancia"]
